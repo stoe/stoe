@@ -1,1 +1,1 @@
-# stoe
+:wave: servus `/ˈzɛrvʊs/`
