@@ -1,5 +1,9 @@
-<p align="center">👋 servus <code>/ˈzɛrvʊs/</code></p>
+Servus `/ˈzɛrvʊs/`, I'm [Stefan](https://stefan.stoelzle.me) 👋
 
-<p align="center"><a href="https://www.keinbockaufnazis.de">✊ keinbockaufnazis.de</a></p>
+#### Find me around the internet:
 
-<p align="center"><a href="https://linkedin.com/in/stoe">linkedin</a> • <a href="https://twitter.com/_stoe">twitter</a></p>
+[linkedin](https://linkedin.com/in/stoe) • [twitter](https://twitter.com/_stoe)
+
+---
+
+[keinbockaufnazis.de](https://www.keinbockaufnazis.de) ✊
