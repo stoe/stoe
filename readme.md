@@ -1,6 +1,6 @@
 Servus `/ˈzɛrvʊs/`, I'm [Stefan](https://stefan.stoelzle.me) 👋
 
-Sr. Solution Architect [@github](https://github.com/github), previously [@sencha](https://github.com/sencha) and [eyeworkers.de](http://eyeworkers.de)
+Sr. Services Delivery Engineer [@github](https://github.com/github), previously [@sencha](https://github.com/sencha) and [eyeworkers.de](http://eyeworkers.de)
 
 #### Find me around the internet:
 
