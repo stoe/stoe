@@ -4,7 +4,7 @@ Sr. Services Delivery Engineer [@github](https://github.com/github), previously 
 
 #### Find me around the internet:
 
-[linkedin](https://linkedin.com/in/stoe) • [twitter](https://twitter.com/_stoe)
+[linkedin](https://linkedin.com/in/stoe)
 
 ---
 
