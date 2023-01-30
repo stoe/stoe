@@ -1,6 +1,10 @@
 Servus `/ˈzɛrvʊs/`, I'm [Stefan](https://stefan.stoelzle.me) 👋
 
-Staff Services Delivery Engineer [@github](https://github.com/github), previously [@sencha](https://github.com/sencha) and [eyeworkers.de](http://eyeworkers.de)
+Staff Services Delivery Engineer [@github](https://github.com/github), where my focus lies in helping companies with their technical, process and cultural transformation.
+
+I have been a software engineer, teacher and consultant since 2008.
+
+Previously [@sencha](https://github.com/sencha) and [eyeworkers.de](http://eyeworkers.de)
 
 #### Find me around the internet:
 
