@@ -4,7 +4,7 @@ Staff Services Delivery Engineer :octocat:[@github](https://github.com/github), 
 
 I have been a software engineer, teacher and consultant since 2008.
 
-Previously 🍃[@sencha](https://github.com/sencha) and 🐘[@eyeworkers](https://github.com/eyeworkers)
+Previously 🌱[@sencha](https://github.com/sencha) and 🐘[@eyeworkers](https://github.com/eyeworkers)
 
 #### Find me around the internet:
 
